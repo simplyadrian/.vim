@@ -3,5 +3,6 @@
 *.swp
 .git/
 .git
+bundle/Docerfile
 bundle/*/doc/tags
 init.vim
